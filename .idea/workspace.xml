@@ -18,7 +18,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/docker_conf/php" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -30,6 +30,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/docker_conf/php" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -45,7 +46,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601026695374</updated>
-      <workItem from="1601026696453" duration="5110000" />
+      <workItem from="1601026696453" duration="5575000" />
     </task>
     <servers />
   </component>
